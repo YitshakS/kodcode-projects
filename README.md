@@ -1,8 +1,9 @@
 # kodcode-projects
 
-## Installation 🛠️
+## 🛠️ Installation
+
 ```bash
-pip instal ...
+  pip instal ...
 ```
 
 ## Contributors
