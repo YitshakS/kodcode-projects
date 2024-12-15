@@ -15,8 +15,12 @@ description
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
-![Django](https://img.shields.io/badge/Django-3.2-green?style=flat&logo=django)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
+![Flask](https://img.shields.io/badge/Flask-2.0.2-lightgray?style=flat&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4.6-green?style=flat&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/GraphQL-15.5.0-e10098?style=flat&logo=graphql)
+![Kafka](https://img.shields.io/badge/Kafka-2.8.0-blue?style=flat&logo=apache-kafka)
+![Neo4j](https://img.shields.io/badge/Neo4j-4.4.0-green?style=flat&logo=neo4j)
 
 ### 👨🏻‍💻 Code
 
