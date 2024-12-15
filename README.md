@@ -9,7 +9,10 @@ description
   docker-compose
   pip instal ...
 ```
-### 💻
+### 💻 Screenshots
+![Placeholder Image](https://via.placeholder.com/150)
+![Placeholder Image](https://via.placeholder.com/150)
+![Placeholder Image](https://via.placeholder.com/150)
 
 ### 👨🏻‍💻 Code
 
