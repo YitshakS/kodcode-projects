@@ -1,5 +1,10 @@
 # kodcode-projects
 
+## Installation 🛠️
+```bash
+pip instal ...
+```
+
 ## Contributors
 
 [<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/yosi-miller?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d" title="יוסי מילר" />](https://github.com/yosi-miller)
