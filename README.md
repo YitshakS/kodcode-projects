@@ -23,24 +23,16 @@
 ![Placeholder Image](https://via.placeholder.com/150)
 
 ## Technologies
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/Docker-20.10.8-blue?style=flat&logo=docker)
 ![Flask](https://img.shields.io/badge/Flask-2.0.2-lightgray?style=flat&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4.6-green?style=flat&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/GraphQL-15.5.0-e10098?style=flat&logo=graphql)
+![Git](https://img.shields.io/badge/Git-2.34-orange?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Enterprise-black?style=flat&logo=github)
 ![Kafka](https://img.shields.io/badge/Kafka-2.8.0-blue?style=flat&logo=apache-kafka)
-![Neo4j](https://img.shields.io/badge/Neo4j-4.4.0-green?style=flat&logo=neo4j)
-
-Docker
-Flask
-Git
-GitHub
-Kafka
-MongoDB
-Pandas
-PostgreSQL
-Python
-SQLAlchemy
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4.6-green?style=flat&logo=mongodb)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.3-purple?style=flat&logo=pandas)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.4.23-red?style=flat&logo=sqlalchemy)
 
 ### 👨🏻‍💻 Code
 
