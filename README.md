@@ -28,7 +28,7 @@
 ![Placeholder Image](https://via.placeholder.com/150)
 ![Placeholder Image](https://via.placeholder.com/150)
 
-## Technologies
+## ⚙️ Technologies
 ![Docker](https://img.shields.io/badge/Docker-20.10.8-blue?style=flat&logo=docker)
 ![Flask](https://img.shields.io/badge/Flask-2.0.2-lightgray?style=flat&logo=flask)
 ![Git](https://img.shields.io/badge/Git-2.34-orange?style=flat&logo=git)
@@ -46,7 +46,7 @@ Github פרויקט ראשי: https://github.com/RafiGedge/amanhakatan.git
 <br />
 Github זיהוי לוחיות רישוי (בשלבי איחוד לפרויקט הראשי): https://github.com/RafiGedge/image_analysis.git
 
-### Team members
+### 👥 Team members
 [<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/yosi-miller?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d" title="יוסי מילר" />](https://github.com/yosi-miller)
 [<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/benioren1?v=4?&h=50&w=50&fit=cover&mask=circle&maxage=7d" title="בנימין אורנשטיין" />](https://github.com/benioren1)
 [<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/RafiGedge?v=4?&h=50&w=50&fit=cover&mask=circle&maxage=7d" title="רפאל גדז'" />](https://github.com/RafiGedge)
