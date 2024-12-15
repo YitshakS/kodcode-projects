@@ -14,9 +14,13 @@
 
 ### 🛠️ Installation
 ```bash
-  docker-compose
-  pip instal ...
+  python -m venv .venv
+  .\.venv\Scripts\activate
+  pip install -r requirements.txt
+  python corrects_the_six_error.py
+  docker-compose up -d
 ```
+
 ### 💻 Screenshots
 ![Placeholder Image](https://via.placeholder.com/150)
 ![Placeholder Image](https://via.placeholder.com/150)
